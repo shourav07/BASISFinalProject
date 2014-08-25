@@ -1,0 +1,36 @@
+﻿@model ProjectVersion001.Models.EnrollCourse
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>EnrollCourse</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Student.RegistrationId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Student.RegistrationId)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Course.Code)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Course.Code)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EnrollDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EnrollDate)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.EnrollCourseId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,54 @@
+﻿@model ProjectVersion001.Models.EnrollCourse
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>EnrollCourse</legend>
+
+        @Html.HiddenFor(model => model.EnrollCourseId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.StudentId, "Student")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("StudentId", String.Empty)
+            @Html.ValidationMessageFor(model => model.StudentId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CourseId, "Course")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("CourseId", String.Empty)
+            @Html.ValidationMessageFor(model => model.CourseId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.EnrollDate)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.EnrollDate)
+            @Html.ValidationMessageFor(model => model.EnrollDate)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,438 @@
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll.config
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.pdb
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Owin.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\WebGrease.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.pdb
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.dll
+C:\Users\PC21\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.pdb
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll.config
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.pdb
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Owin.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\WebGrease.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.pdb
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.dll
+C:\Users\jaxara\Desktop\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.pdb
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll.config
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.pdb
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\EntityFramework.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Owin.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\WebGrease.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.pdb
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\EntityFramework.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.dll
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.pdb
+C:\Users\jaxara\Desktop\Practice for project ASP.NET MVC\16 Practiccce - Copy\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.csprojResolveAssemblyReference.cache
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll.config
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.pdb
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Owin.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\WebGrease.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.pdb
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.csprojResolveAssemblyReference.cache
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.dll
+C:\Users\rak\Downloads\Compressed\project-Courseenrillment\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.pdb
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll.config
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.pdb
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Owin.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\WebGrease.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.pdb
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.dll
+C:\Users\Rifat-Rimi\Desktop\Project\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.pdb
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll.config
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\ProjectVersion001.pdb
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Owin.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\WebGrease.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Helpers.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Mvc.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Optimization.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.Razor.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\System.Web.WebPages.Razor.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Newtonsoft.Json.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Antlr3.Runtime.pdb
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\EntityFramework.SqlServer.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Google.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.csprojResolveAssemblyReference.cache
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.dll
+E:\ASP.net\ASP.net(Basis)\All Class\OOP0147batch Projects\Project final\project-Courseenrillment\16 Practiccce\ProjectVersion001\ProjectVersion001\obj\Debug\ProjectVersion001.pdb
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\ProjectVersion001.dll.config
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\ProjectVersion001.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\ProjectVersion001.pdb
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Antlr3.Runtime.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\EntityFramework.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\EntityFramework.SqlServer.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Google.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Web.Infrastructure.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Newtonsoft.Json.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Owin.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Helpers.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Mvc.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Optimization.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Razor.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.Deployment.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.Razor.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\WebGrease.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Helpers.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Mvc.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Optimization.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Razor.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.Deployment.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.Razor.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Newtonsoft.Json.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Antlr3.Runtime.pdb
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\EntityFramework.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\EntityFramework.SqlServer.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Google.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\obj\Debug\ProjectVersion001.csprojResolveAssemblyReference.cache
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\obj\Debug\ProjectVersion001.dll
+H:\Final Project for MVC\ProjectWork\ProjectVersion001\obj\Debug\ProjectVersion001.pdb
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\ProjectVersion001.dll.config
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\ProjectVersion001.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\ProjectVersion001.pdb
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\EntityFramework.SqlServer.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Owin.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\WebGrease.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Optimization.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Antlr3.Runtime.pdb
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\obj\Debug\ProjectVersion001.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\obj\Debug\ProjectVersion001.dll
+C:\Users\PC21\Desktop\Final Project for MVC\ProjectWork\ProjectVersion001\obj\Debug\ProjectVersion001.pdb

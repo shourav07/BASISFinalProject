@@ -1,0 +1,58 @@
+﻿@model List<ProjectVersion001.Models.AssignCourse>
+
+@{
+    ViewBag.Title = "Assign Course";
+}
+
+<h2>Assigned Course</h2>
+
+<p>
+    @Html.ActionLink("Assign New Course", "Create")
+</p>
+<p><br/></p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayName("Department")
+        </th>
+        <th>
+            @Html.DisplayName("Teacher")
+        </th>
+        <th>
+            @Html.DisplayName("Credit Taken")
+        </th>
+        <th>
+            @Html.DisplayName("Remaing Credit")
+        </th>
+        <th>
+            @Html.DisplayName("Course")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Department.Code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Teacher.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreditTaken)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RemaingCredit)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Course.Code)
+        </td>
+        @*<td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AssignCourseId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AssignCourseId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AssignCourseId })
+        </td>*@
+    </tr>
+}
+
+</table>

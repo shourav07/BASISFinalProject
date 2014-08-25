@@ -1,0 +1,60 @@
+﻿@using Microsoft.Ajax.Utilities
+@using ProjectVersion001.Models
+@model ProjectVersion001.Models.Department
+
+@{
+    ViewBag.Title = "Create";
+}
+<h2>Create</h2>
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<link href="~/Custom_design/ButtonStyle.css" rel="stylesheet" />
+
+<h3 style="color: forestgreen">@TempData["success"]</h3>
+
+@*@if (ViewBag.DepartmentId != null)
+{
+    <div class="alert-success">Department Added By Name: @(ViewBag.DepartmentId)</div>
+}*@
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Department</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        <div class="form-group">
+            @Html.LabelFor(model => model.Code, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Code, new{ htmlAttributes = new{ @class="form-control"}})
+                @Html.ValidationMessageFor(model => model.Code)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+               
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

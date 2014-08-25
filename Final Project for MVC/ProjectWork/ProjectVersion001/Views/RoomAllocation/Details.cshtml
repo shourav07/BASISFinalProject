@@ -1,0 +1,57 @@
+﻿@model ProjectVersion001.Models.RoomAllocation
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>RoomAllocation</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Department.Code)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Department.Code)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Course.Code)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Course.Code)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Room.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Room.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Day.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Day.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.StartTime)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.StartTime)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EndTime)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EndTime)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
